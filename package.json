@@ -2,7 +2,7 @@
   "name": "Flow",
   "version": "1.0.0",
   "description": "Um bot feito para resolver tarefas e tocar músicas!",
-  "main": "./src/index.js",
+  "main": "index.js",
   "dependencies": {
     "discord.js": "^12.2.0",
     "fs": "0.0.1-security"
